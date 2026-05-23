@@ -5,8 +5,8 @@ An embedded systems university group project demonstrating **Maximum Power Point
 ### 🎓 University Group Project (VIT University)
 **Team Members:**
 - Udit Raj Kashyap
-- [Group Member 2 Name]
-- [Group Member 3 Name]
+- Abhikesh R.
+- Srinidhi 
 
 ---
 
